@@ -4,4 +4,4 @@
 for x in *
 do
 	echo "$x" | cut -d"-" -f2
-done
+done;
